@@ -18,6 +18,8 @@
 !/tmp/.keep
 
 /node_modules
-/yarn-error.log
+/yarn-error.
+
+# Ignore Spring files.
 
 .byebug_history
